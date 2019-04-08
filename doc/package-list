@@ -1,0 +1,12 @@
+com.mowitnow.mower
+com.mowitnow.mower.controllers
+com.mowitnow.mower.enums
+com.mowitnow.mower.exceptions
+com.mowitnow.mower.metier
+com.mowitnow.mower.rules
+com.mowitnow.mower.rules.impl
+com.mowitnow.mower.services
+com.mowitnow.mower.services.impl
+com.mowitnow.mower.transverse
+com.mowitnow.mower.transverse.utils
+com.mowitnow.mower.views
